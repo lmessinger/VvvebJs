@@ -11,7 +11,9 @@
     "url": "https://github.com/givanz/VvvebJs.git"
   },
   "dependencies": {
-    "jquery": "^3.0"
+    "jquery": "^3.0",
+    "parse5": "^5.1.0",
+    "parse5-html-rewriting-stream": "^5.1.0"
   },
   "keywords": [
     "vvvebjs",
